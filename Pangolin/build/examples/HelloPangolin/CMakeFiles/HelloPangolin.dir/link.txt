@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++0x -Wall -Wextra  -O3 -DNDEBUG  -rdynamic CMakeFiles/HelloPangolin.dir/main.cpp.o  -o HelloPangolin -Wl,-rpath,/home/mobilitylab/Pangolin/build/src ../../src/libpangolin.so -lrt -lpthread -lGL -lGLU -lGLEW -lSM -lICE -lX11 -lXext -lpython3.6m -ldc1394 -lavcodec -lavformat -lavutil -lswscale -lOpenNI -lOpenNI2 -lpng -lz -ljpeg -ltiff -lIlmImf 
