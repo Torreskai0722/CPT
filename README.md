@@ -1,2 +1,2 @@
 # CPT
-A configurable predictability testbed for DNN inference in AVs
+A Configurable Predictability Testbed (CPT) for DNN inference in AVs
