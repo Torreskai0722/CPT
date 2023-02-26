@@ -1,2 +1,0 @@
-catkin_simple:darknet_ros/darknet_ros:darknet_ros/darknet_ros_msgs:object_msgs:ros_jetson_stats:ros_lane_detection:ros_object_detection:ros_referee:ros_segmentation:ros_slam:sensor_fusion:sort-deepsort-yolov3-ROS/sort_track:video_stream_opencv:vision_msgs:vision_opencv/cv_bridge:vision_opencv/image_geometry:vision_opencv/opencv_tests:vision_opencv/vision_opencv
--DPYTHON_EXECUTABLE=/usr/bin/python3 -DCATKIN_DEVEL_PREFIX=/home/mobilitylab/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/mobilitylab/catkin_ws/install -G Unix Makefiles

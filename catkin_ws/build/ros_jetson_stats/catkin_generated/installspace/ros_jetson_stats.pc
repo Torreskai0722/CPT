@@ -1,8 +1,0 @@
-prefix=/home/mobilitylab/catkin_ws/install
-
-Name: ros_jetson_stats
-Description: Description of ros_jetson_stats
-Version: 3.0.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: 
