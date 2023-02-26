@@ -1,0 +1,21 @@
+image_fps: 30
+traffic_scenario: False
+
+prediction: True
+testing_case: 3
+
+object_keyframe_detection: True
+segmentation_keyframe_detection: True
+lane_keyframe_detection: True
+
+object_last_keyframe: 0
+segmentation_last_keyframe: 0
+lane_last_keyframe: 0
+
+object_delay: 3
+segmentation_delay: 6
+lane_delay: 6
+
+object_deadline: 6
+segmentation_deadline: 6
+lane_deadline: 6

@@ -1,0 +1,7 @@
+set(ros_jetson_stats_SETUP_PY_SETUP_MODULE "distutils.core")
+set(ros_jetson_stats_SETUP_PY_VERSION "3.0.0")
+set(ros_jetson_stats_SETUP_PY_SCRIPTS "")
+set(ros_jetson_stats_SETUP_PY_PACKAGES "ros_jetson_stats")
+set(ros_jetson_stats_SETUP_PY_PACKAGE_DIRS "src/ros_jetson_stats")
+set(ros_jetson_stats_SETUP_PY_MODULES "")
+set(ros_jetson_stats_SETUP_PY_MODULE_DIRS "")

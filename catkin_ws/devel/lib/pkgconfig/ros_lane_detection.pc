@@ -1,0 +1,8 @@
+prefix=/home/mobilitylab/catkin_ws/devel
+
+Name: ros_lane_detection
+Description: Description of ros_lane_detection
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

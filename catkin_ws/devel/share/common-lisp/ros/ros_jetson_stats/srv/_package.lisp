@@ -1,0 +1,20 @@
+(cl:defpackage ros_jetson_stats-srv
+  (:use )
+  (:export
+   "FAN"
+   "<FAN-REQUEST>"
+   "FAN-REQUEST"
+   "<FAN-RESPONSE>"
+   "FAN-RESPONSE"
+   "JETSON_CLOCKS"
+   "<JETSON_CLOCKS-REQUEST>"
+   "JETSON_CLOCKS-REQUEST"
+   "<JETSON_CLOCKS-RESPONSE>"
+   "JETSON_CLOCKS-RESPONSE"
+   "NVPMODEL"
+   "<NVPMODEL-REQUEST>"
+   "NVPMODEL-REQUEST"
+   "<NVPMODEL-RESPONSE>"
+   "NVPMODEL-RESPONSE"
+  ))
+
